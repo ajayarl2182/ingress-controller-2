@@ -242,7 +242,9 @@ As the typical containerized application shows, pod internal communication depen
 If the upgrade can’t achieve graceful shutdown and rolling upgrade, the outage can last a few seconds during a DNS upgrade. During the outage, internal calls to the pod by service name might fail.
 
 
-![codestructure](_images/mvc-db-structure.png)
+![Ingress _ Kubernetes](_images/mvc-db-structure.png)
+
+![system schema](https://server/group/jobs/raw/master/doc/systemDiagram.jpg)
 
 ### Accordian what yiu learned
 
