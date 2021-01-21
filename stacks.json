@@ -1,0 +1,24 @@
+{
+  "title": "Ingress Controller ",
+  "description": "Lab for ingress controller",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Course"
+  ],
+  "document": "",
+  "stack_id": "Ingress_Controller_-course_1611212393902",
+  "de_catalog_id": "Ingress_Controller_-course_1611212393902",
+  "type": "Course",
+  "categories": [
+    "Containerization"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "21 minutes"
+}
